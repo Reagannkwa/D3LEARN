@@ -1,0 +1,153 @@
+{
+    "elections":
+    [
+        {
+            "year":   2021,
+            "governmentParties":   
+            [
+                {
+                    "code": "FF",
+                    "seats" : 176
+                },
+                {
+                    "code": "GP",
+                    "seats" : 37
+                }
+            ],
+            "oppositionParties":
+            [
+                {
+                    "code": "FG",
+                    "seats" : 20 
+                },
+                {
+                    "code": "SF",
+                    "seats" : 14
+                },
+                {
+                    "code": "O",
+                    "seats" : 15
+                },
+                {
+                    "code": "SP",
+                    "seats" : 20
+                },
+                {
+                    "code": "PBP",
+                    "seats" : 170
+                }
+            ]
+        },
+        {
+            "year":   2016,
+            "governmentParties":   
+            [
+                {
+                    "code": "FF",
+                    "seats" : 178
+                },
+                {
+                    "code": "GP",
+                    "seats" : 6
+                },
+                {
+                    "code": "PD",
+                    "seats" : 10
+                }
+            ],
+            "oppositionParties":
+            [
+                {
+                    "code": "FG",
+                    "seats" : 51 
+                },
+                {
+                    "code": "SF",
+                    "seats" : 4
+                },
+                {
+                    "code": "PBP",
+                    "seats" : 20
+                },
+                {
+                    "code": "O",
+                    "seats" : 8
+                }
+            ]
+        },
+        {
+            "year":   2011,
+            "governmentParties":   
+            [
+                {
+                    "code": "FF",
+                    "seats" : 284
+                }
+            ],
+            "oppositionParties":
+            [
+                {
+                    "code": "O",
+                    "seats" : 4
+                },
+                {
+                    "code": "FG",
+                    "seats" : 43
+                },
+                {
+                    "code": "PBP",
+                    "seats" : 17
+                }
+            ]
+        }
+    ],
+            
+    "parties":
+    [
+        {
+            "name": "FDC seats",
+            "code": "FG",
+            "colour": "blue"
+        },
+        {
+            "name": "NUP Seats",
+            "code" : "L",
+            "colour": "#BF1D24"
+        },
+        {
+            "name": "NRM Seats",
+            "code" : "FF",
+            "colour": "yellow"
+        },
+        {
+            "name": "Independent",
+            "code" : "SF",
+            "colour": "#299131"
+        },
+        {
+            "name": "DP",
+            "code" : "O",
+            "colour": "green"
+        },
+        {
+            "name": "Others",
+            "code" :"SP",
+            "colour": "green"
+        },
+        {
+            "name": "UPC",
+            "code" : "PBP",
+            "colour": "red"
+        },
+        {
+            "name": "UPDF Representatives",
+            "code" : "PD",
+            "colour": "black"
+        },
+        {
+            "name": "NRM Independent learning",
+            "code" : "GP",
+            "colour": "orange"
+        }
+    ]
+}
