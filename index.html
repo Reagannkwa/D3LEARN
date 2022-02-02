@@ -110,7 +110,7 @@ var year=2021
 
         g.append("g")
          .call(d3.axisLeft(y).tickFormat(function(d){
-             return "%" + d;
+             return "" + d;
          }).ticks(10))
          .append("text")
          .attr("transform", "rotate(-90)")
@@ -118,7 +118,7 @@ var year=2021
          .attr("dy", "-5.1em")
          .attr("text-anchor", "end")
          .attr("stroke", "black")
-         .text("NO. VOTES (,000)");
+         .text("NO. VOTES ");
 
         g.selectAll(".bar")
          .data(data)
