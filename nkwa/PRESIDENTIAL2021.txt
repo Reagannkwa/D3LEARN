@@ -1,4 +1,4 @@
-Name,votes
+
 Yoweri Museveni(NRM),5851037
 Robert Kyagulanyi,3475298
 Patrick Amuriat,323536
@@ -9,3 +9,6 @@ joseph kabuleta,44300
 Nancy kalembe,37469
 John katumba,35983
 willy Mayambala,14657
+
+
+ 

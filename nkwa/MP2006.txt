@@ -1,0 +1,8 @@
+NRM,213
+FDC,37
+UPC,9
+DP,8
+Conservative Party,1
+Justice Forum,1
+Independents,40
+UPDF,10

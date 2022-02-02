@@ -7,34 +7,42 @@
             [
                 {
                     "code": "FF",
-                    "seats" : 176
+                    "seats" : 316
                 },
                 {
                     "code": "GP",
-                    "seats" : 37
+                    "seats" : 73
+                },
+                {
+                    "code": "PD",
+                    "seats" : 73
                 }
             ],
             "oppositionParties":
             [
                 {
                     "code": "FG",
-                    "seats" : 20 
+                    "seats" : 28 
                 },
                 {
                     "code": "SF",
-                    "seats" : 14
+                    "seats" : 1
                 },
                 {
                     "code": "O",
-                    "seats" : 15
+                    "seats" : 8
                 },
                 {
                     "code": "SP",
-                    "seats" : 20
+                    "seats" : 1
                 },
                 {
                     "code": "PBP",
-                    "seats" : 170
+                    "seats" : 10
+                },
+                {
+                    "code": "L",
+                    "seats" : 61
                 }
             ]
         },
@@ -44,11 +52,11 @@
             [
                 {
                     "code": "FF",
-                    "seats" : 178
+                    "seats" : 199
                 },
                 {
                     "code": "GP",
-                    "seats" : 6
+                    "seats" : 44
                 },
                 {
                     "code": "PD",
@@ -59,19 +67,19 @@
             [
                 {
                     "code": "FG",
-                    "seats" : 51 
+                    "seats" : 29 
                 },
                 {
                     "code": "SF",
-                    "seats" : 4
+                    "seats" : 1
                 },
                 {
                     "code": "PBP",
-                    "seats" : 20
+                    "seats" : 4
                 },
                 {
                     "code": "O",
-                    "seats" : 8
+                    "seats" : 13
                 }
             ]
         },
@@ -81,22 +89,34 @@
             [
                 {
                     "code": "FF",
-                    "seats" : 284
+                    "seats" : 263
+                },
+                {
+                    "code": "PD",
+                    "seats" : 10
+                },
+                {
+                    "code": "GP",
+                    "seats" : 21
                 }
             ],
             "oppositionParties":
             [
                 {
                     "code": "O",
-                    "seats" : 4
+                    "seats" : 12
                 },
                 {
                     "code": "FG",
-                    "seats" : 43
+                    "seats" : 34
                 },
                 {
                     "code": "PBP",
-                    "seats" : 17
+                    "seats" : 10
+                },
+                {
+                    "code": "SF",
+                    "seats" : 1
                 }
             ]
         }
@@ -120,7 +140,7 @@
             "colour": "yellow"
         },
         {
-            "name": "Independent",
+            "name": "JEEMA",
             "code" : "SF",
             "colour": "#299131"
         },

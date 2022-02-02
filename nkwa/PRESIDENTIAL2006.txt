@@ -1,0 +1,6 @@
+Yoweri Museveni,4109449
+Kizza Besigye,2592954
+John Ssebaana Kizito,109583
+Abed Bwanika,65874
+Miria Obote,57071
+Total,6934931
